@@ -1,11 +1,11 @@
 var typed = new Typed(".typing-1",{
-    strings: ["Engineering Student","GATE Aspirant","Front End Developer","Backend Learner"],
+    strings: ["Consistent Learner","working as a GET in JSW Steel Raigarh"],
     typeSpeed: 60,
     backSpeed:30,
     loop:true
   });
   var typed = new Typed(".typing-2",{
-    strings: [" Engineering Student","GATE Aspirant","Front End Developer","Backend Learner"],
+    strings: ["working as a GET in JSW Steel Raigarh"],
     typeSpeed: 80,
     backSpeed:50,
     loop:true
